@@ -1,0 +1,2 @@
+# NewsAppAdmin
+application of news 
